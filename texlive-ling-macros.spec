@@ -3,7 +3,7 @@ Version:	42268
 Release:	2
 Summary:	Macros for typesetting formal linguistics
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ling-macros
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ling-macros
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ling-macros.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ling-macros.doc.r%{version}.tar.xz
